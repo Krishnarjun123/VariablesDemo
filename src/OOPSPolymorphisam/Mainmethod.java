@@ -5,7 +5,10 @@ public class Mainmethod {
 
     public static void main(String[] args) {
         obj.add(10,20);
-        obj.add(20,10,30);
+        obj.add(10,20,30);
+        obj.add(1.5f,20,30);
+
+
 
     }
 }
